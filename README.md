@@ -4,7 +4,7 @@ This project focuses on analyzing customer churn for a telecom company using SQL
 
 &nbsp;
 
-### **Project Structure**
+### **Project Structure :**
 
 - SQL.txt → Contains SQL queries used for data exploration and churn analysis.
 
@@ -12,7 +12,7 @@ This project focuses on analyzing customer churn for a telecom company using SQL
 
 &nbsp;
 
-### **Tools & Technologies**
+### **Tools & Technologies :**
 
 - SQL → Data querying and feature-level churn analysis
 
@@ -22,7 +22,7 @@ This project focuses on analyzing customer churn for a telecom company using SQL
 
 &nbsp;
 
-### **Key SQL Insights**
+### **Key SQL Insights :**
 
 Some important findings derived from SQL analysis:
 
@@ -48,7 +48,7 @@ Some important findings derived from SQL analysis:
 
 &nbsp;
 
-### **Power BI Dashboard**
+### **Power BI Dashboard :**
 
 The Power BI dashboard provides an interactive view of churn patterns, including:
 
@@ -68,7 +68,7 @@ The Power BI dashboard provides an interactive view of churn patterns, including
 
 &nbsp;
 
-### **Business Takeaways**
+### **Business Takeaways :**
 
 - Moving customers from month-to-month to long-term contracts can reduce churn.
 
